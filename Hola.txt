@@ -1,0 +1,5 @@
+import builtins
+
+nombre=input("Pon tu nombre   ")
+print("Hola  ", nombre)
+input("Para salir, pulsa enter ")

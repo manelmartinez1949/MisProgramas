@@ -1,0 +1,7 @@
+import Tkinter as Tk
+app=Tk()
+app.title("Datos")
+texto=""
+texto=Entry(app)
+
+app.mainloop()

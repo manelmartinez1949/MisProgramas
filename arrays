@@ -1,0 +1,10 @@
+import numpy as np
+
+ar=np.array([7,8,9,0,1,2])
+
+
+
+print(ar[1],end="  ")
+print(ar[3])
+
+

@@ -1,0 +1,3 @@
+import math
+print("Ángulo ")
+print(math.acos(314/1250)*180/3)

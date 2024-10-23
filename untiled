@@ -1,0 +1,7 @@
+# Reversing a list using reversed() 
+def Reverse(lst): 
+    return [ele for ele in reversed(lst)] 
+    
+# Driver Code 
+lst = [30, 45, 23, 65, 7, 90] 
+print(Reverse(lst))

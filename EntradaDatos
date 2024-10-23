@@ -1,0 +1,5 @@
+import Tkinter
+window=tkinter.Tk()
+tkinter.label="INPUT"
+window.mainloop()
+
